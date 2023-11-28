@@ -1,0 +1,3 @@
+Hello
+Welcome to Git training
+Please try to understand the difference between files using diff command
